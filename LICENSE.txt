@@ -1,26 +1,26 @@
-Copyright (c) [2026] [Sleet_YT]
+Copyright (c) 2026 Sleet_YT
 
 All rights reserved unless explicitly stated below.
 
-Permission is hereby granted to any person to download, use, modify, and share this project under the following conditions:
+Permission is hereby granted to any person obtaining a copy of this project to use, modify, and share it under the following conditions:
 
-You are allowed to:
-- Use this project for personal use.
-- Modify, adapt, or edit this project.
-- Share the original or modified project privately with friends or small groups.
-- Inclusion in public modpacks is permitted, provided the modpack is non-commercial and free to access. No revenue may be generated from the distribution of this project.
+YOU ARE ALLOWED TO:
+- Use this project for personal, non-commercial purposes.
+- Modify, adapt, or edit this project for personal use.
+- Share the original or modified project privately (e.g., direct file transfer to friends or small private groups), provided that this copyright notice and the name of the author (Sleet_YT) are included.
+- Include this project in public modpacks, provided the modpack is non-commercial and free to access. No revenue may be generated from the distribution or access of the project (this includes ad revenue, paywalls, or platform-specific reward systems like CurseForge Points).
 
-You are NOT allowed to:
-- Reupload, redistribute, or publish this project, in whole or in part, on any public platform (including but not limited to Modrinth, CurseForge, or similar sites).
-- Use this project or any modified version for commercial purposes.
-- Sell this project or include it in any paid content.
+YOU ARE NOT ALLOWED TO:
+- Reupload, redistribute, or publish this project, in whole or in part, on any public platform (including but not limited to Modrinth, CurseForge, PlanetMinecraft, or similar sites) without explicit written permission.
+- Use this project or any modified version for commercial purposes, including use on commercial servers or as part of paid services.
+- Sell this project, include it in paid content, or place it behind a paywall (e.g., Patreon, Ko-fi).
 - Claim this project or any part of it as your own work.
 
-Public Distribution:
-- Public redistribution of this project or any modified version is strictly prohibited.
-- If you wish to share this project publicly, you must link to the official source instead.
+PUBLIC DISTRIBUTION:
+- Public redistribution of the files is strictly prohibited. If you wish to share this project publicly, you must provide a link to the official source/repository provided by the author.
 
-Permission:
-- Any use not explicitly allowed above requires prior written permission from the author.
+DISCLAIMER OF LIABILITY:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-The software is provided "as is", without warranty of any kind.
+ADDITIONAL PERMISSIONS:
+Any use not explicitly allowed above requires prior written permission from Sleet_YT.
