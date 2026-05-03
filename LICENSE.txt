@@ -8,7 +8,7 @@ You are allowed to:
 - Use this project for personal use.
 - Modify, adapt, or edit this project.
 - Share the original or modified project privately with friends or small groups.
-- Include this project in private or non-public modpacks.
+- Inclusion in public modpacks is permitted, provided the modpack is non-commercial and free to access. No revenue may be generated from the distribution of this project.
 
 You are NOT allowed to:
 - Reupload, redistribute, or publish this project, in whole or in part, on any public platform (including but not limited to Modrinth, CurseForge, or similar sites).
